@@ -1,0 +1,10 @@
+C:\Users\SEYFULLAH\Desktop\Visual2019\BüfeSatis\BüfeSatis\bin\Debug\BüfeSatis.exe.config
+C:\Users\SEYFULLAH\Desktop\Visual2019\BüfeSatis\BüfeSatis\bin\Debug\BüfeSatis.exe
+C:\Users\SEYFULLAH\Desktop\Visual2019\BüfeSatis\BüfeSatis\bin\Debug\BüfeSatis.pdb
+C:\Users\SEYFULLAH\Desktop\Visual2019\BüfeSatis\BüfeSatis\obj\Debug\BüfeSatis.csproj.AssemblyReference.cache
+C:\Users\SEYFULLAH\Desktop\Visual2019\BüfeSatis\BüfeSatis\obj\Debug\BüfeSatis.Form1.resources
+C:\Users\SEYFULLAH\Desktop\Visual2019\BüfeSatis\BüfeSatis\obj\Debug\BüfeSatis.Properties.Resources.resources
+C:\Users\SEYFULLAH\Desktop\Visual2019\BüfeSatis\BüfeSatis\obj\Debug\BüfeSatis.csproj.GenerateResource.cache
+C:\Users\SEYFULLAH\Desktop\Visual2019\BüfeSatis\BüfeSatis\obj\Debug\BüfeSatis.csproj.CoreCompileInputs.cache
+C:\Users\SEYFULLAH\Desktop\Visual2019\BüfeSatis\BüfeSatis\obj\Debug\BüfeSatis.exe
+C:\Users\SEYFULLAH\Desktop\Visual2019\BüfeSatis\BüfeSatis\obj\Debug\BüfeSatis.pdb
